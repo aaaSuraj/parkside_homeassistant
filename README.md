@@ -117,7 +117,7 @@ If you configure via the UI, fill in the **options** field for each select entit
 
 1. Go to **Developer Tools** → **States**.
 2. Confirm each entity (`switch.mower_start_stop`, `select.mower_mode`, etc.) appears and reports correct values.
-3. Test toggling **Rain Mode** or changing **Mower Mode**.
+3. Test toggling **Rain Mode** or changing **Mower Control Command**.
 4. For **Start/Stop**, use the `"Start"` option in the **Mower Control Command** dropdown.
 
 ---
